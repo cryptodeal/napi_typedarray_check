@@ -1,0 +1,15 @@
+{
+  "name": "bun_napi_typedarray",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "install": "cmake-js compile"
+  },
+  "devDependencies": {
+    "bun-types": "^0.5.7"
+  },
+  "dependencies": {
+    "cmake-js": "^7.2.1",
+    "node-addon-api": "^6.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+/Users/cryptodeal/bun_napi_typedarray/build/CMakeFiles/typedarray_repro.dir
+/Users/cryptodeal/bun_napi_typedarray/build/CMakeFiles/edit_cache.dir
+/Users/cryptodeal/bun_napi_typedarray/build/CMakeFiles/rebuild_cache.dir
